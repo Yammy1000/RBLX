@@ -1,7 +1,0 @@
-{
-    "list1": ["the", "be", "and", "of", "a", "in", "to", "have", "it", "I"],
-    "list2": ["", "", "", "_", "x", "z", "q", "_x", "_z", "xx", "zz", "xz", "zx"],
-    "list3": ["hunter", "legend", "warrior", "mystic", "slayer", "seeker", "shadow"],
-    "rareWords": ["addiqute", "seriph", "coruze", "vibant", "florux", "zephyx", "nirvos"],
-    "letters": "abcdefghijklmnopqrstuvwxyz"
-}
